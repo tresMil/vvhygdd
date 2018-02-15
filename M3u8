@@ -1,0 +1,882 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://cdn.brainpop.com/socialstudies/hispanicheritage/latinmusic/icon.png" audio-track="sp" group-title="CABLE PREMIUN",[COLOR blue][I][B] ----- CABLE PREMIUN ----- [/B][/I][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-id="" tvg-name="A+" tvg-shift="A+" radio="" tvg-logo="./logos/2020.png" audio-track="sp" group-title="CABLE PREMIUN",A+
+http://www.iptvmexico.xyz/love/2020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Acustik" tvg-shift="Acustik" radio="" tvg-logo="./logos/2100.png" audio-track="sp" group-title="CABLE PREMIUN",Acustik
+http://www.iptvmexico.xyz/love/2100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",ADN 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="AE MUNDO HD" tvg-shift="AE MUNDO HD" radio="" tvg-logo="./logos/323.png" audio-track="sp" group-title="CABLE PREMIUN",AE MUNDO HD
+http://www.iptvmexico.xyz/love/323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",AMC
+http://iptvplayer.xyz:8181/streaming/cv/amc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-shift="AMC HD" radio="" tvg-logo="./logos/232.png" audio-track="sp" group-title="CABLE PREMIUN",AMC HD
+http://www.iptvmexico.xyz/love/232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AmericaTV" tvg-shift="AmericaTV" radio="" tvg-logo="./logos/2097.png" audio-track="sp" group-title="CABLE PREMIUN",AmericaTV
+http://www.iptvmexico.xyz/love/2097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-shift="Animal Planet HD" radio="" tvg-logo="./logos/114.png" audio-track="sp" group-title="CABLE PREMIUN",ANIMAL PLANET HD
+http://www.iptvmexico.xyz/love/114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",APRENDE TV
+http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-shift="AXN HD" radio="" tvg-logo="./logos/321.png" audio-track="sp" group-title="CABLE PREMIUN",AXN HD
+http://www.iptvmexico.xyz/love/321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZ Corazon" tvg-shift="AZ Corazon" radio="" tvg-logo="./logos/394.png" audio-track="sp" group-title="CABLE PREMIUN",AZ CORAZON
+http://www.iptvmexico.xyz/love/394.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Az Mundo" tvg-shift="Az Mundo" radio="" tvg-logo="./logos/2072.png" audio-track="sp" group-title="CABLE PREMIUN",AZ MUNDO
+http://www.iptvmexico.xyz/love/1381.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 13" tvg-shift="Azteca 13" radio="" tvg-logo="./logos/26.png" audio-track="sp" group-title="CABLE PREMIUN",AZTECA 13
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7" tvg-shift="Azteca 7" radio="" tvg-logo="./logos/720.png" audio-track="sp" group-title="CABLE PREMIUN",AZTECA 7
+http://www.iptvmexico.xyz/love/720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bandamax" tvg-shift="Bandamax" radio="" tvg-logo="./logos/361.png" audio-track="sp" group-title="CABLE PREMIUN",BANDAMAX
+http://www.iptvmexico.xyz/love/361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC World" tvg-shift="BBC World" radio="" tvg-logo="./logos/2067.png" audio-track="sp" group-title="CABLE PREMIUN",BBC World
+http://www.iptvmexico.xyz/love/2067.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-shift="Bloomberg" radio="" tvg-logo="./logos/2028.png" audio-track="sp" group-title="CABLE PREMIUN",BLOOMBERG
+http://www.iptvmexico.xyz/love/74.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD" tvg-shift="Boomerang HD" radio="" tvg-logo="./logos/224.png" audio-track="sp" group-title="CABLE PREMIUN",BOOMERANG HD
+http://www.iptvmexico.xyz/love/224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",CABLE NOTICIAS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",CDO PREMIUM
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",CDO PREMIUM HD
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chicos IPE" tvg-shift="Chicos IPE" radio="" tvg-logo="./logos/2091.png" audio-track="sp" group-title="CABLE PREMIUN",CHICOS IPE
+http://www.iptvmexico.xyz/love/2091.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",CHILEVISION
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",CINE +
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",CINECANAL
+http://iptvplayer.xyz:8181/streaming/cv/cinecanal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-shift="Cinecanal HD" radio="" tvg-logo="./logos/111.png" audio-track="sp" group-title="CABLE PREMIUN",CINECANAL HD
+http://www.iptvmexico.xyz/love/111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CineLatino" tvg-shift="CineLatino" radio="" tvg-logo="./logos/2097.png" audio-track="sp" group-title="CABLE PREMIUN",CINELATINO
+http://www.iptvmexico.xyz/love/2097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="./logos/850.png" audio-track="sp" group-title="CABLE PREMIUN",CINELATINO HD
+http://iptvplayer.xyz:8181/streaming/cv/cinelatino.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Dinamita" tvg-shift="Cinema Dinamita" radio="" tvg-logo="./logos/2097.png" audio-track="sp" group-title="CABLE PREMIUN",CINEMA DINAMITA
+http://www.iptvmexico.xyz/love/2098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",CINEMAX
+http://iptvplayer.xyz:8181/streaming/cv/c1nemax.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-shift="Cinemax" radio="" tvg-logo="./logos/1385.png" audio-track="sp" group-title="CABLE PREMIUN",CINEMAX HD
+http://www.iptvmexico.xyz/love/1385.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-shift="Claro Sports" radio="" tvg-logo="./logos/2030.png" audio-track="sp" group-title="CABLE PREMIUN",CLARO SPORTS
+http://www.iptvmexico.xyz/love/2030.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports Colombia" tvg-shift="Claro Sports Colombia" radio="" tvg-logo="./logos/2029.png" audio-track="sp" group-title="CABLE PREMIUN",CLARO SPORTS COLOMBIA
+http://www.iptvmexico.xyz/love/2029.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN HD" tvg-shift="CNN HD" radio="" tvg-logo="./logos/2009.png" audio-track="sp" group-title="CABLE PREMIUN",CNN HD
+http://www.iptvmexico.xyz/love/2009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-shift="Comedy Central HD" radio="" tvg-logo="./logos/284.png" audio-track="sp" group-title="CABLE PREMIUN",COMEDY CENTRAL HD
+http://www.iptvmexico.xyz/love/284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",COSMOVISION
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula" tvg-shift="De Pelicula" radio="" tvg-logo="./logos/365.png" audio-track="sp" group-title="CABLE PREMIUN",DE PELICULA
+http://www.iptvmexico.xyz/love/365.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",DE PELICULA HD
+http://iptvplayer.xyz:8181/streaming/cv/depelicula.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="./logos/2756.png" audio-track="sp" group-title="CABLE PREMIUN",DHE
+http://iptvplayer.xyz:8181/streaming/cv/dhe.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHE HD" tvg-shift="DHE HD" radio="" tvg-logo="./logos/2756.png" audio-track="sp" group-title="CABLE PREMIUN",DHE HD
+http://www.iptvmexico.xyz/love/2756.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-shift="Discovery Channel HD" radio="" tvg-logo="./logos/40.png" audio-track="sp" group-title="CABLE PREMIUN",DISCOVERY CHANNEL HD
+http://www.iptvmexico.xyz/love/40.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-shift="Discovery Civilization" radio="" tvg-logo="./logos/287.png" audio-track="sp" group-title="CABLE PREMIUN",DISCOVERY CIVILIZATION
+http://www.iptvmexico.xyz/love/287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home and Health" tvg-shift="Discovery Home and Health" radio="" tvg-logo="./logos/292.png" audio-track="sp" group-title="CABLE PREMIUN",DISCOVERY HOME AND HEALTH
+http://www.iptvmexico.xyz/love/292.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",DISCOVERY INVESTIGATION
+http://iptv.premiumtutv.com/canal_65_investigacindiscovery.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-shift="Investigation Discovery" radio="" tvg-logo="./logos/2051.png" audio-track="sp" group-title="CABLE PREMIUN",DISCOVERY INVESTIGATION 
+http://www.iptvmexico.xyz/love/291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-shift="Discovery Kids" radio="" tvg-logo="./logos/45.png" audio-track="sp" group-title="CABLE PREMIUN",DISCOVERY KIDS
+http://www.iptvmexico.xyz/love/45.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-shift="Discovery Science" radio="" tvg-logo="./logos/288.png" audio-track="sp" group-title="CABLE PREMIUN",DISCOVERY SCIENCE
+http://www.iptvmexico.xyz/love/288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-shift="Discovery Theater HD" radio="" tvg-logo="./logos/290.png" audio-track="sp" group-title="CABLE PREMIUN",DISCOVERY THEATER HD
+http://www.iptvmexico.xyz/love/290.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-shift="Discovery Turbo" radio="" tvg-logo="./logos/289.png" audio-track="sp" group-title="CABLE PREMIUN",DISCOVERY TURBO
+http://www.iptvmexico.xyz/love/289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-shift="Discovery World HD" radio="" tvg-logo="./logos/226.png" audio-track="sp" group-title="CABLE PREMIUN",DISCOVERY WORLD HD
+http://www.iptvmexico.xyz/love/226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-shift="Disney Channel" radio="" tvg-logo="./logos/41.png" audio-track="sp" group-title="CABLE PREMIUN",DISNEY CHANNEL
+http://www.iptvmexico.xyz/love/41.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-shift="Disney Junior" radio="" tvg-logo="./logos/89.png" audio-track="sp" group-title="CABLE PREMIUN",DISNEY JUNIOR
+http://www.iptvmexico.xyz/love/89.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-shift="Disney XD" radio="" tvg-logo="./logos/123.png" audio-track="sp" group-title="CABLE PREMIUN",DISNEY XD
+http://www.iptvmexico.xyz/love/123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-shift="Distrito Comedia" radio="" tvg-logo="./logos/181.png" audio-track="sp" group-title="CABLE PREMIUN",DISTRITO COMEDIA
+http://www.iptvmexico.xyz/love/181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW Latinoamerica" tvg-shift="DW Latinoamerica" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",DW LATINOAMERICA
+http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_2_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW Latinoamerica" tvg-shift="DW Latinoamerica" radio="" tvg-logo="./logos/2005.png" audio-track="sp" group-title="CABLE PREMIUN",DW LATINOAMERICA HD
+http://www.iptvmexico.xyz/love/775.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment Television" tvg-shift="E! Entertainment Television" radio="" tvg-logo="./logos/215.png" audio-track="sp" group-title="CABLE PREMIUN",E! ENTERTAINMENT TELEVISION
+http://www.iptvmexico.xyz/love/215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EfektoTV" tvg-shift="EfektoTV" radio="" tvg-logo="./logos/2024.png" audio-track="sp" group-title="CABLE PREMIUN",EFEKTOTV
+http://www.iptvmexico.xyz/love/2024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-shift="El Gourmet" radio="" tvg-logo="./logos/312.png" audio-track="sp" group-title="CABLE PREMIUN",EL GOURMET
+http://www.iptvmexico.xyz/love/312.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",ESPN +
+http://iptv.premiumtutv.com/canal_103_espn+.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-shift="ESPN HD" radio="" tvg-logo="./logos/408.png" audio-track="sp" group-title="CABLE PREMIUN",ESPN HD
+http://www.iptvmexico.xyz/love/408.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS HD" tvg-shift="ESPN PLUS HD" radio="" tvg-logo="./logos/331.png" audio-track="sp" group-title="CABLE PREMIUN",ESPN PLUS HD
+http://www.iptvmexico.xyz/love/331.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN2 HD" tvg-shift="ESPN2 HD" radio="" tvg-logo="./logos/1387.png" audio-track="sp" group-title="CABLE PREMIUN",ESPN2 HD
+http://www.iptvmexico.xyz/love/1387.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN3 HD" tvg-shift="ESPN3 HD" radio="" tvg-logo="./logos/2011.png" audio-track="sp" group-title="CABLE PREMIUN",ESPN3 HD
+http://www.iptvmexico.xyz/love/330.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 Latin America" tvg-shift="F1 Latin America" radio="" tvg-logo="./logos/847.png" audio-track="sp" group-title="CABLE PREMIUN",F1 LATIN AMERICA
+http://www.iptvmexico.xyz/love/847.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",FOX ACTION
+http://iptvplayer.xyz:8181/streaming/cv/f0x_action.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Action HD" tvg-shift="Fox Action HD" radio="" tvg-logo="./logos/217.png" audio-track="sp" group-title="CABLE PREMIUN",FOX ACTION HD
+http://www.iptvmexico.xyz/love/217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Action Mexico" tvg-shift="Fox Action Mexico" radio="" tvg-logo="./logos/1461.png" audio-track="sp" group-title="CABLE PREMIUN",FOX ACTION MEXICO
+http://www.iptvmexico.xyz/love/1461.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Cinema HD" tvg-shift="Fox Cinema HD" radio="" tvg-logo="./logos/230.png" audio-track="sp" group-title="CABLE PREMIUN",FOX CINEMA HD
+http://www.iptvmexico.xyz/love/2764.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Classics HD" tvg-shift="Fox Classics HD" radio="" tvg-logo="./logos/228.png" audio-track="sp" group-title="CABLE PREMIUN",FOX CLASSICS HD
+http://www.iptvmexico.xyz/love/228.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="./logos/1306.png" audio-track="sp" group-title="CABLE PREMIUN",FOX COMEDI
+http://iptvplayer.xyz:8181/streaming/cv/f0x_comedy.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Comedy HD" tvg-shift="FOX Comedy HD" radio="" tvg-logo="./logos/1306.png" audio-track="sp" group-title="CABLE PREMIUN",FOX Comedy HD
+http://www.iptvmexico.xyz/love/1306.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="./logos/229.png" audio-track="sp" group-title="CABLE PREMIUN",FOX FAMILY
+http://iptvplayer.xyz:8181/streaming/cv/f0x_family.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Family HD" tvg-shift="FOX Family HD" radio="" tvg-logo="./logos/229.png" audio-track="sp" group-title="CABLE PREMIUN",FOX Family HD
+http://www.iptvmexico.xyz/love/229.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox HD" tvg-shift="Fox HD" radio="" tvg-logo="./logos/3.png" audio-track="sp" group-title="CABLE PREMIUN",FOX HD
+http://www.iptvmexico.xyz/love/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",FOX LIFE
+http://iptv.premiumtutv.com/canal_44_foxlife.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life HD" tvg-shift="Fox Life HD" radio="" tvg-logo="./logos/216.png" audio-track="sp" group-title="CABLE PREMIUN",FOX LIFE HD
+http://www.iptvmexico.xyz/love/214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Mexico" tvg-shift="Fox Mexico" radio="" tvg-logo="./logos/438.png" audio-track="sp" group-title="CABLE PREMIUN",FOX MEXICO
+http://www.iptvmexico.xyz/love/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",FOX MIX TV
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",FOX MOVIES
+http://iptvplayer.xyz:8181/streaming/cv/f0x_movies.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies HD" tvg-shift="Fox Movies HD" radio="" tvg-logo="./logos/305.png" audio-track="sp" group-title="CABLE PREMIUN",FOX MOVIES HD
+http://www.iptvmexico.xyz/love/305.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Series HD" tvg-shift="Fox Premium Series HD" radio="" tvg-logo="./logos/379.png" audio-track="sp" group-title="CABLE PREMIUN",FOX PREMIUM SERIES HD
+http://www.iptvmexico.xyz/love/379.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Series HD Sub" tvg-shift="Fox Premium Series HD Sub" radio="" tvg-logo="./logos/380.png" audio-track="sp" group-title="CABLE PREMIUN",FOX PREMIUM SERIES HD SUB
+http://www.iptvmexico.xyz/love/380.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",FOX SERIES
+http://iptvplayer.xyz:8181/streaming/cv/f0x_series.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",FOX SPORTS
+http://iptvplayer.xyz:8181/streaming/cv/f0xsports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",FOX SPORTS 2
+http://iptvplayer.xyz:8181/streamer/f0xsports2/Stream(01).m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-shift="Fox Sports 2 HD" radio="" tvg-logo="./logos/57.png" audio-track="sp" group-title="CABLE PREMIUN",FOX SPORTS 2 HD
+http://www.iptvmexico.xyz/love/333.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 Mexico" tvg-shift="Fox Sports 2 Mexico" radio="" tvg-logo="./logos/2061.png" audio-track="sp" group-title="CABLE PREMIUN",FOX SPORTS 2 MEXICO
+http://www.iptvmexico.xyz/love/2761.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3" tvg-shift="Fox Sports 3" radio="" tvg-logo="./logos/2086.png" audio-track="sp" group-title="CABLE PREMIUN",FOX SPORTS 3
+http://www.iptvmexico.xyz/love/2086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 Mexico" tvg-shift="Fox Sports 3 Mexico" radio="" tvg-logo="./logos/2062.png" audio-track="sp" group-title="CABLE PREMIUN",FOX SPORTS 3 MEXICO
+http://www.iptvmexico.xyz/love/2762.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD" tvg-shift="Fox Sports HD" radio="" tvg-logo="./logos/57.png" audio-track="sp" group-title="CABLE PREMIUN",FOX SPORTS HD
+http://www.iptvmexico.xyz/love/57.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Mexico" tvg-shift="Fox Sports Mexico" radio="" tvg-logo="./logos/2060.png" audio-track="sp" group-title="CABLE PREMIUN",FOX SPORTS MEXICO
+http://www.iptvmexico.xyz/love/2760.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",FOX TV LATINO
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fusion" tvg-shift="Fusion" radio="" tvg-logo="./logos/2083.png" audio-track="sp" group-title="CABLE PREMIUN",FUSION
+http://www.iptvmexico.xyz/love/2083.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",FX
+http://iptvplayer.xyz:8181/streaming/cv/fx.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-shift="FX HD" radio="" tvg-logo="./logos/115.png" audio-track="sp" group-title="CABLE PREMIUN",FX HD
+http://www.iptvmexico.xyz/love/325.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX Mexico" tvg-shift="FX Mexico" radio="" tvg-logo="./logos/2763.png" audio-track="sp" group-title="CABLE PREMIUN",FX MEXICO
+http://www.iptvmexico.xyz/love/2763.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FXM" tvg-shift="FXM" radio="" tvg-logo="./logos/220.png" audio-track="sp" group-title="CABLE PREMIUN",FXM
+http://www.iptvmexico.xyz/love/220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",FXM
+http://iptvplayer.xyz:8181/streaming/cv/fxm.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gala TV" tvg-shift="Gala TV" radio="" tvg-logo="./logos/129.png" audio-track="sp" group-title="CABLE PREMIUN",GALA TV
+http://www.iptvmexico.xyz/love/129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Garage TV" tvg-shift="Garage TV" radio="" tvg-logo="./logos/760.png" audio-track="sp" group-title="CABLE PREMIUN",GARAGE TV
+http://www.iptvmexico.xyz/love/760.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",GARAGE TV
+http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",GOLDEN +
+http://iptvplayer.xyz:8181/streaming/cv/golden.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge" tvg-shift="Golden Edge" radio="" tvg-logo="./logos/179.png" audio-track="sp" group-title="CABLE PREMIUN",GOLDEN EDGE
+http://www.iptvmexico.xyz/love/179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden HD" tvg-shift="Golden HD" radio="" tvg-logo="./logos/231.png" audio-track="sp" group-title="CABLE PREMIUN",GOLDEN HD
+http://www.iptvmexico.xyz/love/231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",H2
+http://iptvplayer.xyz:8181/streaming/cv/h2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="H2 (History 2)" tvg-shift="H2 (History 2)" radio="" tvg-logo="./logos/2012.png" audio-track="sp" group-title="CABLE PREMIUN",H2 (History 2)
+http://www.iptvmexico.xyz/love/576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",HBO
+http://iptvplayer.xyz:8181/streaming/cv/hb0hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-shift="HBO 2 HD" radio="" tvg-logo="./logos/832.png" audio-track="sp" group-title="CABLE PREMIUN",HBO 2 HD
+http://www.iptvmexico.xyz/love/832.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",HBO FAMILY
+http://iptvplayer.xyz:8181/streaming/cv/hb0fam.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-shift="HBO Family HD" radio="" tvg-logo="./logos/832.png" audio-track="sp" group-title="CABLE PREMIUN",HBO FAMILY HD
+http://www.iptvmexico.xyz/love/849.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-shift="HBO HD" radio="" tvg-logo="./logos/823.png" audio-track="sp" group-title="CABLE PREMIUN",HBO HD
+http://www.iptvmexico.xyz/love/823.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD Sub" tvg-shift="HBO HD Sub" radio="" tvg-logo="./logos/824.png" audio-track="sp" group-title="CABLE PREMIUN",HBO HD Sub
+http://www.iptvmexico.xyz/love/824.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-shift="HBO Plus HD" radio="" tvg-logo="./logos/832.png" audio-track="sp" group-title="CABLE PREMIUN",HBO PLUS HD
+http://www.iptvmexico.xyz/love/831.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",HBO SIGNATURE
+http://iptvplayer.xyz:8181/streaming/cv/hb0sign.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD" tvg-shift="HBO Signature HD" radio="" tvg-logo="./logos/832.png" audio-track="sp" group-title="CABLE PREMIUN",HBO SIGNATURE HD
+http://www.iptvmexico.xyz/love/894.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",HISTORY
+http://iptvplayer.xyz:8181/streaming/cv/history.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History Channel HD" tvg-shift="History Channel HD" radio="" tvg-logo="./logos/270.png" audio-track="sp" group-title="CABLE PREMIUN",HISTORY CHANNEL HD
+http://www.iptvmexico.xyz/love/270.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History Op2" tvg-shift="History Op2" radio="" tvg-logo="./logos/351.png" audio-track="sp" group-title="CABLE PREMIUN",HISTORY OP2
+http://www.iptvmexico.xyz/love/351.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",hmx tv
+http://iptv.premiumtutv.com/canal_68_hmxtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hola TV" tvg-shift="Hola TV" radio="" tvg-logo="./logos/1209.png" audio-track="sp" group-title="CABLE PREMIUN",Hola TV
+http://www.iptvmexico.xyz/love/1209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-shift="HTV" radio="" tvg-logo="./logos/936.png" audio-track="sp" group-title="CABLE PREMIUN",HTV
+http://www.iptvmexico.xyz/love/936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",i.sat
+http://iptv.premiumtutv.com/canal_69_i.sat.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="I.Sat" tvg-shift="I.Sat" radio="" tvg-logo="./logos/301.png" audio-track="sp" group-title="CABLE PREMIUN",I.SAT
+http://www.iptvmexico.xyz/love/301.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",LIFEDESING
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-shift="Lifetime" radio="" tvg-logo="./logos/149.png" audio-track="sp" group-title="CABLE PREMIUN",LIFETIME
+http://www.iptvmexico.xyz/love/149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Locomotion" tvg-shift="Locomotion" radio="" tvg-logo="./logos/2022.png" audio-track="sp" group-title="CABLE PREMIUN",LOCOMOTION
+http://www.iptvmexico.xyz/love/2022.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",LOCOMOTION
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",M2O TV MUSIC
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX Prime" tvg-shift="MAX Prime" radio="" tvg-logo="./logos/1311.png" audio-track="sp" group-title="CABLE PREMIUN",MAX PRIME
+http://www.iptvmexico.xyz/love/1311.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Max UP" tvg-shift="Max UP" radio="" tvg-logo="./logos/912.png" audio-track="sp" group-title="CABLE PREMIUN",Max UP
+http://www.iptvmexico.xyz/love/912.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MC Music" tvg-shift="MC Music" radio="" tvg-logo="./logos/2033.png" audio-track="sp" group-title="CABLE PREMIUN",MC MUSIC
+http://www.iptvmexico.xyz/love/2033.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="./logos/2033.png" audio-track="sp" group-title="CABLE PREMIUN",MC MUSIC CHOICE
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mexico Travel Channel" tvg-shift="Mexico Travel Channel" radio="" tvg-logo="./logos/2092.png" audio-track="sp" group-title="CABLE PREMIUN",MEXICO TRAVEL CHANNEL
+http://www.iptvmexico.xyz/love/2092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mi Musica" tvg-shift="Mi Musica" radio="" tvg-logo="./logos/2031.png" audio-track="sp" group-title="CABLE PREMIUN",MI MUSICA
+http://www.iptvmexico.xyz/love/2031.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",MIAMI TV ESPANA
+http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/chunklist_w2064215587_b1896000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Milenio HD" tvg-shift="Milenio HD" radio="" tvg-logo="./logos/2013.png" audio-track="sp" group-title="CABLE PREMIUN",MILENIO HD
+http://www.iptvmexico.xyz/love/1283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",mtv
+http://iptv.premiumtutv.com/canal_10_mtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-shift="MTV HD" radio="" tvg-logo="./logos/18.png" audio-track="sp" group-title="CABLE PREMIUN",MTV HD
+http://www.iptvmexico.xyz/love/18.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-shift="MTV Hits" radio="" tvg-logo="./logos/399.png" audio-track="sp" group-title="CABLE PREMIUN",MTV Hits
+http://www.iptvmexico.xyz/love/399.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD" tvg-shift="MTV Live HD" radio="" tvg-logo="./logos/405.png" audio-track="sp" group-title="CABLE PREMIUN",MTV LIVE HD
+http://www.iptvmexico.xyz/love/405.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Multipremier" tvg-shift="Multipremier" radio="" tvg-logo="./logos/2046.png" audio-track="sp" group-title="CABLE PREMIUN",MULTIPREMIER
+http://www.iptvmexico.xyz/love/2046.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",MULTIPREMIER HD
+http://iptvplayer.xyz:8181/streaming/cv/multipremier.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mundo Auto TV" tvg-shift="Mundo Auto TV" radio="" tvg-logo="./logos/2054.png" audio-track="sp" group-title="CABLE PREMIUN",MUNDO AUTO TV
+http://www.iptvmexico.xyz/love/2093.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MVS Noticias" tvg-shift="MVS Noticias" radio="" tvg-logo="./logos/2040.png" audio-track="sp" group-title="CABLE PREMIUN",MVS NOTICIAS
+http://www.iptvmexico.xyz/love/2040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo HD" tvg-shift="NatGeo HD" radio="" tvg-logo="./logos/50.png" audio-track="sp" group-title="CABLE PREMIUN",NATGEO HD
+http://www.iptvmexico.xyz/love/50.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids" tvg-shift="NatGeo Kids" radio="" tvg-logo="./logos/2753.png" audio-track="sp" group-title="CABLE PREMIUN",NATGEO KIDS
+http://www.iptvmexico.xyz/love/2753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids Mexico" tvg-shift="NatGeo Kids Mexico" radio="" tvg-logo="./logos/2757.png" audio-track="sp" group-title="CABLE PREMIUN",NATGEO KIDS MEXICO
+http://www.iptvmexico.xyz/love/2757.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild HD" tvg-shift="NatGeo Wild HD" radio="" tvg-logo="./logos/225.png" audio-track="sp" group-title="CABLE PREMIUN",NATGEO WILD HD
+http://www.iptvmexico.xyz/love/225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",NATGEO WILL
+http://iptvplayer.xyz:8181/streaming/cv/natgeo_wild.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Neox" tvg-shift="Neox" radio="" tvg-logo="./logos/2025.png" audio-track="sp" group-title="CABLE PREMIUN",NEOX
+http://www.iptvmexico.xyz/love/2025.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network" tvg-shift="NFL Network" radio="" tvg-logo="./logos/2088.png" audio-track="sp" group-title="CABLE PREMIUN",NFL NETWORK
+http://www.iptvmexico.xyz/love/2088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick 2 HD" tvg-shift="Nick 2 HD" radio="" tvg-logo="./logos/2015.png" audio-track="sp" group-title="CABLE PREMIUN",NICK 2 HD
+http://www.iptvmexico.xyz/love/1989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick HD" tvg-shift="Nick HD" radio="" tvg-logo="./logos/44.png" audio-track="sp" group-title="CABLE PREMIUN",NICK HD
+http://www.iptvmexico.xyz/love/44.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr HD" tvg-shift="Nick Jr HD" radio="" tvg-logo="./logos/222.png" audio-track="sp" group-title="CABLE PREMIUN",NICK JR HD
+http://www.iptvmexico.xyz/love/222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NickToons" tvg-shift="NickToons" radio="" tvg-logo="./logos/310.png" audio-track="sp" group-title="CABLE PREMIUN",NICKTOONS
+http://www.iptvmexico.xyz/love/310.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NiuMedia" tvg-shift="NiuMedia" radio="" tvg-logo="https://lh3.googleusercontent.com/ue6Egka2vQ4RUXmC0bQmHfWInNt7TtAUJbju1euIaNpYSs2xgsC-6Cy12bYsX7zF4301=w300" audio-track="sp" group-title="CABLE PREMIUN",NIUMEDIA
+http://www.iptvmexico.xyz/love/2080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",NIUMEDIA
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Once TV" tvg-shift="Once TV" radio="" tvg-logo="./logos/35.png" audio-track="sp" group-title="CABLE PREMIUN",ONCE TV HD
+http://www.iptvmexico.xyz/love/35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="One TV" tvg-shift="One TV" radio="" tvg-logo="./logos/1276.png" audio-track="sp" group-title="CABLE PREMIUN",ONE TV
+http://www.iptvmexico.xyz/love/1276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel HD" tvg-shift="Paramount Channel HD" radio="" tvg-logo="./logos/2016.png" audio-track="sp" group-title="CABLE PREMIUN",PARAMOUNT CHANNEL HD
+http://www.iptvmexico.xyz/love/640.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peque TV" tvg-shift="Peque TV" radio="" tvg-logo="./logos/2090.png" audio-track="sp" group-title="CABLE PREMIUN",PEQUE TV
+http://www.iptvmexico.xyz/love/2090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Proyecto 40" tvg-shift="Proyecto 40" radio="" tvg-logo="./logos/2003.png" audio-track="sp" group-title="CABLE PREMIUN",PROYECTO 40
+http://www.iptvmexico.xyz/love/2003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PX Sports" tvg-shift="PX Sports" radio="" tvg-logo="./logos/2084.png" audio-track="sp" group-title="CABLE PREMIUN",PX SPORTS
+http://www.iptvmexico.xyz/love/2084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCN Telenovelas" tvg-shift="RCN Telenovelas" radio="" tvg-logo="./logos/2037.png" audio-track="sp" group-title="CABLE PREMIUN",RCN TELENOVELAS
+http://www.iptvmexico.xyz/love/2037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",REDBULL
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ritmoson" tvg-shift="Ritmoson" radio="" tvg-logo="./logos/209.png" audio-track="sp" group-title="CABLE PREMIUN",RITMOSON
+http://www.iptvmexico.xyz/love/209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",SONY
+http://iptv.premiumtutv.com/canal_11_sony.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony HD" tvg-shift="Sony HD" radio="" tvg-logo="./logos/22.png" audio-track="sp" group-title="CABLE PREMIUN",Sony HD
+http://www.iptvmexico.xyz/love/22.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",SPÁCE
+http://iptvplayer.xyz:8181/streaming/cv/space.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-shift="Space HD" radio="" tvg-logo="./logos/2061.png" audio-track="sp" group-title="CABLE PREMIUN",SPACE HD
+http://www.iptvmexico.xyz/love/14.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-shift="Studio Universal" radio="" tvg-logo="./logos/233.png" audio-track="sp" group-title="CABLE PREMIUN",STUDIO UNIVERSAL
+http://www.iptvmexico.xyz/love/233.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",STUDIO UNIVERSAL HD
+http://iptvplayer.xyz:8181/streaming/cv/stdio_univ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="./logos/2034.png" audio-track="sp" group-title="CABLE PREMIUN",SUN CHANNEL HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8?tecnotv.info?iptv.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="Sundance Channel" tvg-shift="Sundance Channel" radio="" tvg-logo="./logos/2017.png" audio-track="sp" group-title="CABLE PREMIUN",SUNDANCE CHANNEL
+http://www.iptvmexico.xyz/love/1464.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-shift="SyFy" radio="" tvg-logo="./logos/211.png" audio-track="sp" group-title="CABLE PREMIUN",SYFY
+http://www.iptvmexico.xyz/love/211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TBS veryfunny" tvg-shift="TBS veryfunny" radio="" tvg-logo="./logos/286.png" audio-track="sp" group-title="CABLE PREMIUN",TBS veryfunny
+http://www.iptvmexico.xyz/love/286.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",TC
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",TCM
+http://iptv.premiumtutv.com/canal_57_tcm.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-shift="TCM" radio="" tvg-logo="./logos/234.png" audio-track="sp" group-title="CABLE PREMIUN",TCM
+http://www.iptvmexico.xyz/love/234.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",TDN
+http://189.216.247.113/Content/HLS/Live/Channel(TDN)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teleformula" tvg-shift="Teleformula" radio="" tvg-logo="./logos/440.png" audio-track="sp" group-title="CABLE PREMIUN",TELEFORMULA
+http://www.iptvmexico.xyz/love/440.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telehit" tvg-shift="Telehit" radio="" tvg-logo="./logos/501.png" audio-track="sp" group-title="CABLE PREMIUN",TELEHIT
+http://www.iptvmexico.xyz/love/501.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-shift="Telemundo" radio="" tvg-logo="./logos/2027.png" audio-track="sp" group-title="CABLE PREMIUN",TELEMUNDO
+http://www.iptvmexico.xyz/love/1232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",TELEMUNDO
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",TELESUR
+http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",the film zone
+http://iptv.premiumtutv.com/canal_79_thefilmzone.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Music" tvg-shift="Tigo Music" radio="" tvg-logo="./logos/2026.png" audio-track="sp" group-title="CABLE PREMIUN",TIGO MUSIC
+http://www.iptvmexico.xyz/love/2026.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TIIN" tvg-shift="TIIN" radio="" tvg-logo="./logos/208.png" audio-track="sp" group-title="CABLE PREMIUN",TIIN
+http://www.iptvmexico.xyz/love/208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-shift="TLC HD" radio="" tvg-logo="./logos/833.png" audio-track="sp" group-title="CABLE PREMIUN",TLC HD
+http://www.iptvmexico.xyz/love/833.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TlNovelas" tvg-shift="TlNovelas" radio="" tvg-logo="./logos/12.png" audio-track="sp" group-title="CABLE PREMIUN",TLNOVELAS
+http://www.iptvmexico.xyz/love/12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?Entretenimiento.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-shift="TNT" radio="" tvg-logo="./logos/30.png" audio-track="sp" group-title="CABLE PREMIUN",TNT
+http://www.iptvmexico.xyz/love/302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-shift="TNT HD" radio="" tvg-logo="./logos/31.png" audio-track="sp" group-title="CABLE PREMIUN",TNT HD
+http://www.iptvmexico.xyz/love/31.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-shift="TNT Series HD" radio="" tvg-logo="./logos/200.png" audio-track="sp" group-title="CABLE PREMIUN",TNT Series HD
+http://www.iptvmexico.xyz/love/200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-shift="Tooncast" radio="" tvg-logo="./logos/131.png" audio-track="sp" group-title="CABLE PREMIUN",TOONCAST
+http://www.iptvmexico.xyz/love/131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",TRAVELHD
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trendy" tvg-shift="Trendy" radio="" tvg-logo="./logos/2021.png" audio-track="sp" group-title="CABLE PREMIUN",TRENDY
+http://www.iptvmexico.xyz/love/2021.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",TRENDY CHANNEL
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="TruTV HD" tvg-shift="TruTV HD" radio="" tvg-logo="./logos/320.png" audio-track="sp" group-title="CABLE PREMIUN",TRUTV HD
+http://www.iptvmexico.xyz/love/320.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",TV 5 MONDE LATINOAMERICA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",TV CHILE
+http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
+#EXTINF:-1 tvg-id="" tvg-name="TV5Monde" tvg-shift="TV5Monde" radio="" tvg-logo="./logos/1059.png" audio-track="sp" group-title="CABLE PREMIUN",TV5 MONDE HD
+http://www.iptvmexico.xyz/love/1059.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Unicable" tvg-shift="Unicable" radio="" tvg-logo="./logos/212.png" audio-track="sp" group-title="CABLE PREMIUN",UNICABLE
+http://www.iptvmexico.xyz/love/212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel" tvg-shift="Universal Channel" radio="" tvg-logo="./logos/344.png" audio-track="sp" group-title="CABLE PREMIUN",UNIVERSAL CHANNEL
+http://www.iptvmexico.xyz/love/344.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",UNIVISION
+http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_androidtab.m3u8?hdnea=expires=1496782118~access=/nlds/univisionnow/univision_east/as/live/*~md5=a4f512d96d77b9a4f5e4d8f31bbf5361
+#EXTINF:-1 tvg-id="" tvg-name="Univision TDN" tvg-shift="Univision TDN" radio="" tvg-logo="./logos/2019.png" audio-track="sp" group-title="CABLE PREMIUN",Univision TDN
+http://www.iptvmexico.xyz/love/130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",UNIVISION TDN
+http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",VE PLUS TV SD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Classic" tvg-shift="VH1 Classic" radio="" tvg-logo="./logos/396.png" audio-track="sp" group-title="CABLE PREMIUN",VH1 CLASSIC
+http://www.iptvmexico.xyz/love/396.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-shift="VH1 HD" radio="" tvg-logo="./logos/235.png" audio-track="sp" group-title="CABLE PREMIUN",VH1 HD
+http://www.iptvmexico.xyz/love/235.m3u8
+#EXTINF:-1 tvg-id="" tvg-nam#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://cdn.brainpop.com/socialstudies/hispanicheritage/latinmusic/icon.png" audio-track="sp" group-title="CABLE PREMIUN",[COLOR blue][I][B] ----- CABLE PREMIUN ----- [/B][/I][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-id="" tvg-name="A+" tvg-shift="A+" radio="" tvg-logo="./logos/2020.png" audio-track="sp" group-title="CABLE PREMIUN",A+
+http://www.iptvmexico.xyz/love/2020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Acustik" tvg-shift="Acustik" radio="" tvg-logo="./logos/2100.png" audio-track="sp" group-title="CABLE PREMIUN",Acustik
+http://www.iptvmexico.xyz/love/2100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",ADN 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="AE MUNDO HD" tvg-shift="AE MUNDO HD" radio="" tvg-logo="./logos/323.png" audio-track="sp" group-title="CABLE PREMIUN",AE MUNDO HD
+http://www.iptvmexico.xyz/love/323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",AMC
+http://iptvplayer.xyz:8181/streaming/cv/amc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-shift="AMC HD" radio="" tvg-logo="./logos/232.png" audio-track="sp" group-title="CABLE PREMIUN",AMC HD
+http://www.iptvmexico.xyz/love/232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AmericaTV" tvg-shift="AmericaTV" radio="" tvg-logo="./logos/2097.png" audio-track="sp" group-title="CABLE PREMIUN",AmericaTV
+http://www.iptvmexico.xyz/love/2097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-shift="Animal Planet HD" radio="" tvg-logo="./logos/114.png" audio-track="sp" group-title="CABLE PREMIUN",ANIMAL PLANET HD
+http://www.iptvmexico.xyz/love/114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",APRENDE TV
+http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-shift="AXN HD" radio="" tvg-logo="./logos/321.png" audio-track="sp" group-title="CABLE PREMIUN",AXN HD
+http://www.iptvmexico.xyz/love/321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZ Corazon" tvg-shift="AZ Corazon" radio="" tvg-logo="./logos/394.png" audio-track="sp" group-title="CABLE PREMIUN",AZ CORAZON
+http://www.iptvmexico.xyz/love/394.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Az Mundo" tvg-shift="Az Mundo" radio="" tvg-logo="./logos/2072.png" audio-track="sp" group-title="CABLE PREMIUN",AZ MUNDO
+http://www.iptvmexico.xyz/love/1381.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 13" tvg-shift="Azteca 13" radio="" tvg-logo="./logos/26.png" audio-track="sp" group-title="CABLE PREMIUN",AZTECA 13
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7" tvg-shift="Azteca 7" radio="" tvg-logo="./logos/720.png" audio-track="sp" group-title="CABLE PREMIUN",AZTECA 7
+http://www.iptvmexico.xyz/love/720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bandamax" tvg-shift="Bandamax" radio="" tvg-logo="./logos/361.png" audio-track="sp" group-title="CABLE PREMIUN",BANDAMAX
+http://www.iptvmexico.xyz/love/361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC World" tvg-shift="BBC World" radio="" tvg-logo="./logos/2067.png" audio-track="sp" group-title="CABLE PREMIUN",BBC World
+http://www.iptvmexico.xyz/love/2067.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-shift="Bloomberg" radio="" tvg-logo="./logos/2028.png" audio-track="sp" group-title="CABLE PREMIUN",BLOOMBERG
+http://www.iptvmexico.xyz/love/74.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD" tvg-shift="Boomerang HD" radio="" tvg-logo="./logos/224.png" audio-track="sp" group-title="CABLE PREMIUN",BOOMERANG HD
+http://www.iptvmexico.xyz/love/224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",CABLE NOTICIAS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",CDO PREMIUM
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",CDO PREMIUM HD
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chicos IPE" tvg-shift="Chicos IPE" radio="" tvg-logo="./logos/2091.png" audio-track="sp" group-title="CABLE PREMIUN",CHICOS IPE
+http://www.iptvmexico.xyz/love/2091.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",CHILEVISION
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",CINE +
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",CINECANAL
+http://iptvplayer.xyz:8181/streaming/cv/cinecanal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-shift="Cinecanal HD" radio="" tvg-logo="./logos/111.png" audio-track="sp" group-title="CABLE PREMIUN",CINECANAL HD
+http://www.iptvmexico.xyz/love/111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CineLatino" tvg-shift="CineLatino" radio="" tvg-logo="./logos/2097.png" audio-track="sp" group-title="CABLE PREMIUN",CINELATINO
+http://www.iptvmexico.xyz/love/2097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="./logos/850.png" audio-track="sp" group-title="CABLE PREMIUN",CINELATINO HD
+http://iptvplayer.xyz:8181/streaming/cv/cinelatino.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Dinamita" tvg-shift="Cinema Dinamita" radio="" tvg-logo="./logos/2097.png" audio-track="sp" group-title="CABLE PREMIUN",CINEMA DINAMITA
+http://www.iptvmexico.xyz/love/2098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",CINEMAX
+http://iptvplayer.xyz:8181/streaming/cv/c1nemax.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-shift="Cinemax" radio="" tvg-logo="./logos/1385.png" audio-track="sp" group-title="CABLE PREMIUN",CINEMAX HD
+http://www.iptvmexico.xyz/love/1385.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-shift="Claro Sports" radio="" tvg-logo="./logos/2030.png" audio-track="sp" group-title="CABLE PREMIUN",CLARO SPORTS
+http://www.iptvmexico.xyz/love/2030.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports Colombia" tvg-shift="Claro Sports Colombia" radio="" tvg-logo="./logos/2029.png" audio-track="sp" group-title="CABLE PREMIUN",CLARO SPORTS COLOMBIA
+http://www.iptvmexico.xyz/love/2029.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN HD" tvg-shift="CNN HD" radio="" tvg-logo="./logos/2009.png" audio-track="sp" group-title="CABLE PREMIUN",CNN HD
+http://www.iptvmexico.xyz/love/2009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-shift="Comedy Central HD" radio="" tvg-logo="./logos/284.png" audio-track="sp" group-title="CABLE PREMIUN",COMEDY CENTRAL HD
+http://www.iptvmexico.xyz/love/284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",COSMOVISION
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula" tvg-shift="De Pelicula" radio="" tvg-logo="./logos/365.png" audio-track="sp" group-title="CABLE PREMIUN",DE PELICULA
+http://www.iptvmexico.xyz/love/365.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",DE PELICULA HD
+http://iptvplayer.xyz:8181/streaming/cv/depelicula.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="./logos/2756.png" audio-track="sp" group-title="CABLE PREMIUN",DHE
+http://iptvplayer.xyz:8181/streaming/cv/dhe.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHE HD" tvg-shift="DHE HD" radio="" tvg-logo="./logos/2756.png" audio-track="sp" group-title="CABLE PREMIUN",DHE HD
+http://www.iptvmexico.xyz/love/2756.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-shift="Discovery Channel HD" radio="" tvg-logo="./logos/40.png" audio-track="sp" group-title="CABLE PREMIUN",DISCOVERY CHANNEL HD
+http://www.iptvmexico.xyz/love/40.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-shift="Discovery Civilization" radio="" tvg-logo="./logos/287.png" audio-track="sp" group-title="CABLE PREMIUN",DISCOVERY CIVILIZATION
+http://www.iptvmexico.xyz/love/287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home and Health" tvg-shift="Discovery Home and Health" radio="" tvg-logo="./logos/292.png" audio-track="sp" group-title="CABLE PREMIUN",DISCOVERY HOME AND HEALTH
+http://www.iptvmexico.xyz/love/292.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",DISCOVERY INVESTIGATION
+http://iptv.premiumtutv.com/canal_65_investigacindiscovery.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-shift="Investigation Discovery" radio="" tvg-logo="./logos/2051.png" audio-track="sp" group-title="CABLE PREMIUN",DISCOVERY INVESTIGATION 
+http://www.iptvmexico.xyz/love/291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-shift="Discovery Kids" radio="" tvg-logo="./logos/45.png" audio-track="sp" group-title="CABLE PREMIUN",DISCOVERY KIDS
+http://www.iptvmexico.xyz/love/45.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-shift="Discovery Science" radio="" tvg-logo="./logos/288.png" audio-track="sp" group-title="CABLE PREMIUN",DISCOVERY SCIENCE
+http://www.iptvmexico.xyz/love/288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-shift="Discovery Theater HD" radio="" tvg-logo="./logos/290.png" audio-track="sp" group-title="CABLE PREMIUN",DISCOVERY THEATER HD
+http://www.iptvmexico.xyz/love/290.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-shift="Discovery Turbo" radio="" tvg-logo="./logos/289.png" audio-track="sp" group-title="CABLE PREMIUN",DISCOVERY TURBO
+http://www.iptvmexico.xyz/love/289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-shift="Discovery World HD" radio="" tvg-logo="./logos/226.png" audio-track="sp" group-title="CABLE PREMIUN",DISCOVERY WORLD HD
+http://www.iptvmexico.xyz/love/226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-shift="Disney Channel" radio="" tvg-logo="./logos/41.png" audio-track="sp" group-title="CABLE PREMIUN",DISNEY CHANNEL
+http://www.iptvmexico.xyz/love/41.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-shift="Disney Junior" radio="" tvg-logo="./logos/89.png" audio-track="sp" group-title="CABLE PREMIUN",DISNEY JUNIOR
+http://www.iptvmexico.xyz/love/89.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-shift="Disney XD" radio="" tvg-logo="./logos/123.png" audio-track="sp" group-title="CABLE PREMIUN",DISNEY XD
+http://www.iptvmexico.xyz/love/123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-shift="Distrito Comedia" radio="" tvg-logo="./logos/181.png" audio-track="sp" group-title="CABLE PREMIUN",DISTRITO COMEDIA
+http://www.iptvmexico.xyz/love/181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW Latinoamerica" tvg-shift="DW Latinoamerica" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",DW LATINOAMERICA
+http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_2_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW Latinoamerica" tvg-shift="DW Latinoamerica" radio="" tvg-logo="./logos/2005.png" audio-track="sp" group-title="CABLE PREMIUN",DW LATINOAMERICA HD
+http://www.iptvmexico.xyz/love/775.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment Television" tvg-shift="E! Entertainment Television" radio="" tvg-logo="./logos/215.png" audio-track="sp" group-title="CABLE PREMIUN",E! ENTERTAINMENT TELEVISION
+http://www.iptvmexico.xyz/love/215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EfektoTV" tvg-shift="EfektoTV" radio="" tvg-logo="./logos/2024.png" audio-track="sp" group-title="CABLE PREMIUN",EFEKTOTV
+http://www.iptvmexico.xyz/love/2024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-shift="El Gourmet" radio="" tvg-logo="./logos/312.png" audio-track="sp" group-title="CABLE PREMIUN",EL GOURMET
+http://www.iptvmexico.xyz/love/312.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",ESPN +
+http://iptv.premiumtutv.com/canal_103_espn+.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-shift="ESPN HD" radio="" tvg-logo="./logos/408.png" audio-track="sp" group-title="CABLE PREMIUN",ESPN HD
+http://www.iptvmexico.xyz/love/408.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS HD" tvg-shift="ESPN PLUS HD" radio="" tvg-logo="./logos/331.png" audio-track="sp" group-title="CABLE PREMIUN",ESPN PLUS HD
+http://www.iptvmexico.xyz/love/331.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN2 HD" tvg-shift="ESPN2 HD" radio="" tvg-logo="./logos/1387.png" audio-track="sp" group-title="CABLE PREMIUN",ESPN2 HD
+http://www.iptvmexico.xyz/love/1387.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN3 HD" tvg-shift="ESPN3 HD" radio="" tvg-logo="./logos/2011.png" audio-track="sp" group-title="CABLE PREMIUN",ESPN3 HD
+http://www.iptvmexico.xyz/love/330.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 Latin America" tvg-shift="F1 Latin America" radio="" tvg-logo="./logos/847.png" audio-track="sp" group-title="CABLE PREMIUN",F1 LATIN AMERICA
+http://www.iptvmexico.xyz/love/847.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",FOX ACTION
+http://iptvplayer.xyz:8181/streaming/cv/f0x_action.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Action HD" tvg-shift="Fox Action HD" radio="" tvg-logo="./logos/217.png" audio-track="sp" group-title="CABLE PREMIUN",FOX ACTION HD
+http://www.iptvmexico.xyz/love/217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Action Mexico" tvg-shift="Fox Action Mexico" radio="" tvg-logo="./logos/1461.png" audio-track="sp" group-title="CABLE PREMIUN",FOX ACTION MEXICO
+http://www.iptvmexico.xyz/love/1461.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Cinema HD" tvg-shift="Fox Cinema HD" radio="" tvg-logo="./logos/230.png" audio-track="sp" group-title="CABLE PREMIUN",FOX CINEMA HD
+http://www.iptvmexico.xyz/love/2764.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Classics HD" tvg-shift="Fox Classics HD" radio="" tvg-logo="./logos/228.png" audio-track="sp" group-title="CABLE PREMIUN",FOX CLASSICS HD
+http://www.iptvmexico.xyz/love/228.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="./logos/1306.png" audio-track="sp" group-title="CABLE PREMIUN",FOX COMEDI
+http://iptvplayer.xyz:8181/streaming/cv/f0x_comedy.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Comedy HD" tvg-shift="FOX Comedy HD" radio="" tvg-logo="./logos/1306.png" audio-track="sp" group-title="CABLE PREMIUN",FOX Comedy HD
+http://www.iptvmexico.xyz/love/1306.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="./logos/229.png" audio-track="sp" group-title="CABLE PREMIUN",FOX FAMILY
+http://iptvplayer.xyz:8181/streaming/cv/f0x_family.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Family HD" tvg-shift="FOX Family HD" radio="" tvg-logo="./logos/229.png" audio-track="sp" group-title="CABLE PREMIUN",FOX Family HD
+http://www.iptvmexico.xyz/love/229.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox HD" tvg-shift="Fox HD" radio="" tvg-logo="./logos/3.png" audio-track="sp" group-title="CABLE PREMIUN",FOX HD
+http://www.iptvmexico.xyz/love/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",FOX LIFE
+http://iptv.premiumtutv.com/canal_44_foxlife.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life HD" tvg-shift="Fox Life HD" radio="" tvg-logo="./logos/216.png" audio-track="sp" group-title="CABLE PREMIUN",FOX LIFE HD
+http://www.iptvmexico.xyz/love/214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Mexico" tvg-shift="Fox Mexico" radio="" tvg-logo="./logos/438.png" audio-track="sp" group-title="CABLE PREMIUN",FOX MEXICO
+http://www.iptvmexico.xyz/love/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",FOX MIX TV
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",FOX MOVIES
+http://iptvplayer.xyz:8181/streaming/cv/f0x_movies.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies HD" tvg-shift="Fox Movies HD" radio="" tvg-logo="./logos/305.png" audio-track="sp" group-title="CABLE PREMIUN",FOX MOVIES HD
+http://www.iptvmexico.xyz/love/305.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Series HD" tvg-shift="Fox Premium Series HD" radio="" tvg-logo="./logos/379.png" audio-track="sp" group-title="CABLE PREMIUN",FOX PREMIUM SERIES HD
+http://www.iptvmexico.xyz/love/379.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Series HD Sub" tvg-shift="Fox Premium Series HD Sub" radio="" tvg-logo="./logos/380.png" audio-track="sp" group-title="CABLE PREMIUN",FOX PREMIUM SERIES HD SUB
+http://www.iptvmexico.xyz/love/380.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",FOX SERIES
+http://iptvplayer.xyz:8181/streaming/cv/f0x_series.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",FOX SPORTS
+http://iptvplayer.xyz:8181/streaming/cv/f0xsports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",FOX SPORTS 2
+http://iptvplayer.xyz:8181/streamer/f0xsports2/Stream(01).m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-shift="Fox Sports 2 HD" radio="" tvg-logo="./logos/57.png" audio-track="sp" group-title="CABLE PREMIUN",FOX SPORTS 2 HD
+http://www.iptvmexico.xyz/love/333.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 Mexico" tvg-shift="Fox Sports 2 Mexico" radio="" tvg-logo="./logos/2061.png" audio-track="sp" group-title="CABLE PREMIUN",FOX SPORTS 2 MEXICO
+http://www.iptvmexico.xyz/love/2761.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3" tvg-shift="Fox Sports 3" radio="" tvg-logo="./logos/2086.png" audio-track="sp" group-title="CABLE PREMIUN",FOX SPORTS 3
+http://www.iptvmexico.xyz/love/2086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 Mexico" tvg-shift="Fox Sports 3 Mexico" radio="" tvg-logo="./logos/2062.png" audio-track="sp" group-title="CABLE PREMIUN",FOX SPORTS 3 MEXICO
+http://www.iptvmexico.xyz/love/2762.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD" tvg-shift="Fox Sports HD" radio="" tvg-logo="./logos/57.png" audio-track="sp" group-title="CABLE PREMIUN",FOX SPORTS HD
+http://www.iptvmexico.xyz/love/57.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Mexico" tvg-shift="Fox Sports Mexico" radio="" tvg-logo="./logos/2060.png" audio-track="sp" group-title="CABLE PREMIUN",FOX SPORTS MEXICO
+http://www.iptvmexico.xyz/love/2760.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",FOX TV LATINO
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fusion" tvg-shift="Fusion" radio="" tvg-logo="./logos/2083.png" audio-track="sp" group-title="CABLE PREMIUN",FUSION
+http://www.iptvmexico.xyz/love/2083.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",FX
+http://iptvplayer.xyz:8181/streaming/cv/fx.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-shift="FX HD" radio="" tvg-logo="./logos/115.png" audio-track="sp" group-title="CABLE PREMIUN",FX HD
+http://www.iptvmexico.xyz/love/325.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX Mexico" tvg-shift="FX Mexico" radio="" tvg-logo="./logos/2763.png" audio-track="sp" group-title="CABLE PREMIUN",FX MEXICO
+http://www.iptvmexico.xyz/love/2763.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FXM" tvg-shift="FXM" radio="" tvg-logo="./logos/220.png" audio-track="sp" group-title="CABLE PREMIUN",FXM
+http://www.iptvmexico.xyz/love/220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",FXM
+http://iptvplayer.xyz:8181/streaming/cv/fxm.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gala TV" tvg-shift="Gala TV" radio="" tvg-logo="./logos/129.png" audio-track="sp" group-title="CABLE PREMIUN",GALA TV
+http://www.iptvmexico.xyz/love/129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Garage TV" tvg-shift="Garage TV" radio="" tvg-logo="./logos/760.png" audio-track="sp" group-title="CABLE PREMIUN",GARAGE TV
+http://www.iptvmexico.xyz/love/760.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",GARAGE TV
+http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",GOLDEN +
+http://iptvplayer.xyz:8181/streaming/cv/golden.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge" tvg-shift="Golden Edge" radio="" tvg-logo="./logos/179.png" audio-track="sp" group-title="CABLE PREMIUN",GOLDEN EDGE
+http://www.iptvmexico.xyz/love/179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden HD" tvg-shift="Golden HD" radio="" tvg-logo="./logos/231.png" audio-track="sp" group-title="CABLE PREMIUN",GOLDEN HD
+http://www.iptvmexico.xyz/love/231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",H2
+http://iptvplayer.xyz:8181/streaming/cv/h2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="H2 (History 2)" tvg-shift="H2 (History 2)" radio="" tvg-logo="./logos/2012.png" audio-track="sp" group-title="CABLE PREMIUN",H2 (History 2)
+http://www.iptvmexico.xyz/love/576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",HBO
+http://iptvplayer.xyz:8181/streaming/cv/hb0hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-shift="HBO 2 HD" radio="" tvg-logo="./logos/832.png" audio-track="sp" group-title="CABLE PREMIUN",HBO 2 HD
+http://www.iptvmexico.xyz/love/832.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",HBO FAMILY
+http://iptvplayer.xyz:8181/streaming/cv/hb0fam.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-shift="HBO Family HD" radio="" tvg-logo="./logos/832.png" audio-track="sp" group-title="CABLE PREMIUN",HBO FAMILY HD
+http://www.iptvmexico.xyz/love/849.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-shift="HBO HD" radio="" tvg-logo="./logos/823.png" audio-track="sp" group-title="CABLE PREMIUN",HBO HD
+http://www.iptvmexico.xyz/love/823.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD Sub" tvg-shift="HBO HD Sub" radio="" tvg-logo="./logos/824.png" audio-track="sp" group-title="CABLE PREMIUN",HBO HD Sub
+http://www.iptvmexico.xyz/love/824.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-shift="HBO Plus HD" radio="" tvg-logo="./logos/832.png" audio-track="sp" group-title="CABLE PREMIUN",HBO PLUS HD
+http://www.iptvmexico.xyz/love/831.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",HBO SIGNATURE
+http://iptvplayer.xyz:8181/streaming/cv/hb0sign.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD" tvg-shift="HBO Signature HD" radio="" tvg-logo="./logos/832.png" audio-track="sp" group-title="CABLE PREMIUN",HBO SIGNATURE HD
+http://www.iptvmexico.xyz/love/894.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",HISTORY
+http://iptvplayer.xyz:8181/streaming/cv/history.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History Channel HD" tvg-shift="History Channel HD" radio="" tvg-logo="./logos/270.png" audio-track="sp" group-title="CABLE PREMIUN",HISTORY CHANNEL HD
+http://www.iptvmexico.xyz/love/270.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History Op2" tvg-shift="History Op2" radio="" tvg-logo="./logos/351.png" audio-track="sp" group-title="CABLE PREMIUN",HISTORY OP2
+http://www.iptvmexico.xyz/love/351.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",hmx tv
+http://iptv.premiumtutv.com/canal_68_hmxtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hola TV" tvg-shift="Hola TV" radio="" tvg-logo="./logos/1209.png" audio-track="sp" group-title="CABLE PREMIUN",Hola TV
+http://www.iptvmexico.xyz/love/1209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-shift="HTV" radio="" tvg-logo="./logos/936.png" audio-track="sp" group-title="CABLE PREMIUN",HTV
+http://www.iptvmexico.xyz/love/936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",i.sat
+http://iptv.premiumtutv.com/canal_69_i.sat.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="I.Sat" tvg-shift="I.Sat" radio="" tvg-logo="./logos/301.png" audio-track="sp" group-title="CABLE PREMIUN",I.SAT
+http://www.iptvmexico.xyz/love/301.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",LIFEDESING
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-shift="Lifetime" radio="" tvg-logo="./logos/149.png" audio-track="sp" group-title="CABLE PREMIUN",LIFETIME
+http://www.iptvmexico.xyz/love/149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Locomotion" tvg-shift="Locomotion" radio="" tvg-logo="./logos/2022.png" audio-track="sp" group-title="CABLE PREMIUN",LOCOMOTION
+http://www.iptvmexico.xyz/love/2022.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",LOCOMOTION
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",M2O TV MUSIC
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX Prime" tvg-shift="MAX Prime" radio="" tvg-logo="./logos/1311.png" audio-track="sp" group-title="CABLE PREMIUN",MAX PRIME
+http://www.iptvmexico.xyz/love/1311.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Max UP" tvg-shift="Max UP" radio="" tvg-logo="./logos/912.png" audio-track="sp" group-title="CABLE PREMIUN",Max UP
+http://www.iptvmexico.xyz/love/912.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MC Music" tvg-shift="MC Music" radio="" tvg-logo="./logos/2033.png" audio-track="sp" group-title="CABLE PREMIUN",MC MUSIC
+http://www.iptvmexico.xyz/love/2033.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="./logos/2033.png" audio-track="sp" group-title="CABLE PREMIUN",MC MUSIC CHOICE
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mexico Travel Channel" tvg-shift="Mexico Travel Channel" radio="" tvg-logo="./logos/2092.png" audio-track="sp" group-title="CABLE PREMIUN",MEXICO TRAVEL CHANNEL
+http://www.iptvmexico.xyz/love/2092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mi Musica" tvg-shift="Mi Musica" radio="" tvg-logo="./logos/2031.png" audio-track="sp" group-title="CABLE PREMIUN",MI MUSICA
+http://www.iptvmexico.xyz/love/2031.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",MIAMI TV ESPANA
+http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/chunklist_w2064215587_b1896000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Milenio HD" tvg-shift="Milenio HD" radio="" tvg-logo="./logos/2013.png" audio-track="sp" group-title="CABLE PREMIUN",MILENIO HD
+http://www.iptvmexico.xyz/love/1283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",mtv
+http://iptv.premiumtutv.com/canal_10_mtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-shift="MTV HD" radio="" tvg-logo="./logos/18.png" audio-track="sp" group-title="CABLE PREMIUN",MTV HD
+http://www.iptvmexico.xyz/love/18.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-shift="MTV Hits" radio="" tvg-logo="./logos/399.png" audio-track="sp" group-title="CABLE PREMIUN",MTV Hits
+http://www.iptvmexico.xyz/love/399.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD" tvg-shift="MTV Live HD" radio="" tvg-logo="./logos/405.png" audio-track="sp" group-title="CABLE PREMIUN",MTV LIVE HD
+http://www.iptvmexico.xyz/love/405.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Multipremier" tvg-shift="Multipremier" radio="" tvg-logo="./logos/2046.png" audio-track="sp" group-title="CABLE PREMIUN",MULTIPREMIER
+http://www.iptvmexico.xyz/love/2046.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",MULTIPREMIER HD
+http://iptvplayer.xyz:8181/streaming/cv/multipremier.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mundo Auto TV" tvg-shift="Mundo Auto TV" radio="" tvg-logo="./logos/2054.png" audio-track="sp" group-title="CABLE PREMIUN",MUNDO AUTO TV
+http://www.iptvmexico.xyz/love/2093.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MVS Noticias" tvg-shift="MVS Noticias" radio="" tvg-logo="./logos/2040.png" audio-track="sp" group-title="CABLE PREMIUN",MVS NOTICIAS
+http://www.iptvmexico.xyz/love/2040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo HD" tvg-shift="NatGeo HD" radio="" tvg-logo="./logos/50.png" audio-track="sp" group-title="CABLE PREMIUN",NATGEO HD
+http://www.iptvmexico.xyz/love/50.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids" tvg-shift="NatGeo Kids" radio="" tvg-logo="./logos/2753.png" audio-track="sp" group-title="CABLE PREMIUN",NATGEO KIDS
+http://www.iptvmexico.xyz/love/2753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids Mexico" tvg-shift="NatGeo Kids Mexico" radio="" tvg-logo="./logos/2757.png" audio-track="sp" group-title="CABLE PREMIUN",NATGEO KIDS MEXICO
+http://www.iptvmexico.xyz/love/2757.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild HD" tvg-shift="NatGeo Wild HD" radio="" tvg-logo="./logos/225.png" audio-track="sp" group-title="CABLE PREMIUN",NATGEO WILD HD
+http://www.iptvmexico.xyz/love/225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",NATGEO WILL
+http://iptvplayer.xyz:8181/streaming/cv/natgeo_wild.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Neox" tvg-shift="Neox" radio="" tvg-logo="./logos/2025.png" audio-track="sp" group-title="CABLE PREMIUN",NEOX
+http://www.iptvmexico.xyz/love/2025.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network" tvg-shift="NFL Network" radio="" tvg-logo="./logos/2088.png" audio-track="sp" group-title="CABLE PREMIUN",NFL NETWORK
+http://www.iptvmexico.xyz/love/2088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick 2 HD" tvg-shift="Nick 2 HD" radio="" tvg-logo="./logos/2015.png" audio-track="sp" group-title="CABLE PREMIUN",NICK 2 HD
+http://www.iptvmexico.xyz/love/1989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick HD" tvg-shift="Nick HD" radio="" tvg-logo="./logos/44.png" audio-track="sp" group-title="CABLE PREMIUN",NICK HD
+http://www.iptvmexico.xyz/love/44.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr HD" tvg-shift="Nick Jr HD" radio="" tvg-logo="./logos/222.png" audio-track="sp" group-title="CABLE PREMIUN",NICK JR HD
+http://www.iptvmexico.xyz/love/222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NickToons" tvg-shift="NickToons" radio="" tvg-logo="./logos/310.png" audio-track="sp" group-title="CABLE PREMIUN",NICKTOONS
+http://www.iptvmexico.xyz/love/310.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NiuMedia" tvg-shift="NiuMedia" radio="" tvg-logo="https://lh3.googleusercontent.com/ue6Egka2vQ4RUXmC0bQmHfWInNt7TtAUJbju1euIaNpYSs2xgsC-6Cy12bYsX7zF4301=w300" audio-track="sp" group-title="CABLE PREMIUN",NIUMEDIA
+http://www.iptvmexico.xyz/love/2080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",NIUMEDIA
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Once TV" tvg-shift="Once TV" radio="" tvg-logo="./logos/35.png" audio-track="sp" group-title="CABLE PREMIUN",ONCE TV HD
+http://www.iptvmexico.xyz/love/35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="One TV" tvg-shift="One TV" radio="" tvg-logo="./logos/1276.png" audio-track="sp" group-title="CABLE PREMIUN",ONE TV
+http://www.iptvmexico.xyz/love/1276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel HD" tvg-shift="Paramount Channel HD" radio="" tvg-logo="./logos/2016.png" audio-track="sp" group-title="CABLE PREMIUN",PARAMOUNT CHANNEL HD
+http://www.iptvmexico.xyz/love/640.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peque TV" tvg-shift="Peque TV" radio="" tvg-logo="./logos/2090.png" audio-track="sp" group-title="CABLE PREMIUN",PEQUE TV
+http://www.iptvmexico.xyz/love/2090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Proyecto 40" tvg-shift="Proyecto 40" radio="" tvg-logo="./logos/2003.png" audio-track="sp" group-title="CABLE PREMIUN",PROYECTO 40
+http://www.iptvmexico.xyz/love/2003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PX Sports" tvg-shift="PX Sports" radio="" tvg-logo="./logos/2084.png" audio-track="sp" group-title="CABLE PREMIUN",PX SPORTS
+http://www.iptvmexico.xyz/love/2084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCN Telenovelas" tvg-shift="RCN Telenovelas" radio="" tvg-logo="./logos/2037.png" audio-track="sp" group-title="CABLE PREMIUN",RCN TELENOVELAS
+http://www.iptvmexico.xyz/love/2037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",REDBULL
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ritmoson" tvg-shift="Ritmoson" radio="" tvg-logo="./logos/209.png" audio-track="sp" group-title="CABLE PREMIUN",RITMOSON
+http://www.iptvmexico.xyz/love/209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",SONY
+http://iptv.premiumtutv.com/canal_11_sony.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony HD" tvg-shift="Sony HD" radio="" tvg-logo="./logos/22.png" audio-track="sp" group-title="CABLE PREMIUN",Sony HD
+http://www.iptvmexico.xyz/love/22.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",SPÁCE
+http://iptvplayer.xyz:8181/streaming/cv/space.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-shift="Space HD" radio="" tvg-logo="./logos/2061.png" audio-track="sp" group-title="CABLE PREMIUN",SPACE HD
+http://www.iptvmexico.xyz/love/14.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-shift="Studio Universal" radio="" tvg-logo="./logos/233.png" audio-track="sp" group-title="CABLE PREMIUN",STUDIO UNIVERSAL
+http://www.iptvmexico.xyz/love/233.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",STUDIO UNIVERSAL HD
+http://iptvplayer.xyz:8181/streaming/cv/stdio_univ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="./logos/2034.png" audio-track="sp" group-title="CABLE PREMIUN",SUN CHANNEL HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8?tecnotv.info?iptv.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="Sundance Channel" tvg-shift="Sundance Channel" radio="" tvg-logo="./logos/2017.png" audio-track="sp" group-title="CABLE PREMIUN",SUNDANCE CHANNEL
+http://www.iptvmexico.xyz/love/1464.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-shift="SyFy" radio="" tvg-logo="./logos/211.png" audio-track="sp" group-title="CABLE PREMIUN",SYFY
+http://www.iptvmexico.xyz/love/211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TBS veryfunny" tvg-shift="TBS veryfunny" radio="" tvg-logo="./logos/286.png" audio-track="sp" group-title="CABLE PREMIUN",TBS veryfunny
+http://www.iptvmexico.xyz/love/286.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",TC
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",TCM
+http://iptv.premiumtutv.com/canal_57_tcm.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-shift="TCM" radio="" tvg-logo="./logos/234.png" audio-track="sp" group-title="CABLE PREMIUN",TCM
+http://www.iptvmexico.xyz/love/234.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",TDN
+http://189.216.247.113/Content/HLS/Live/Channel(TDN)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teleformula" tvg-shift="Teleformula" radio="" tvg-logo="./logos/440.png" audio-track="sp" group-title="CABLE PREMIUN",TELEFORMULA
+http://www.iptvmexico.xyz/love/440.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telehit" tvg-shift="Telehit" radio="" tvg-logo="./logos/501.png" audio-track="sp" group-title="CABLE PREMIUN",TELEHIT
+http://www.iptvmexico.xyz/love/501.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-shift="Telemundo" radio="" tvg-logo="./logos/2027.png" audio-track="sp" group-title="CABLE PREMIUN",TELEMUNDO
+http://www.iptvmexico.xyz/love/1232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",TELEMUNDO
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",TELESUR
+http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",the film zone
+http://iptv.premiumtutv.com/canal_79_thefilmzone.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Music" tvg-shift="Tigo Music" radio="" tvg-logo="./logos/2026.png" audio-track="sp" group-title="CABLE PREMIUN",TIGO MUSIC
+http://www.iptvmexico.xyz/love/2026.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TIIN" tvg-shift="TIIN" radio="" tvg-logo="./logos/208.png" audio-track="sp" group-title="CABLE PREMIUN",TIIN
+http://www.iptvmexico.xyz/love/208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-shift="TLC HD" radio="" tvg-logo="./logos/833.png" audio-track="sp" group-title="CABLE PREMIUN",TLC HD
+http://www.iptvmexico.xyz/love/833.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TlNovelas" tvg-shift="TlNovelas" radio="" tvg-logo="./logos/12.png" audio-track="sp" group-title="CABLE PREMIUN",TLNOVELAS
+http://www.iptvmexico.xyz/love/12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?Entretenimiento.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-shift="TNT" radio="" tvg-logo="./logos/30.png" audio-track="sp" group-title="CABLE PREMIUN",TNT
+http://www.iptvmexico.xyz/love/302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-shift="TNT HD" radio="" tvg-logo="./logos/31.png" audio-track="sp" group-title="CABLE PREMIUN",TNT HD
+http://www.iptvmexico.xyz/love/31.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-shift="TNT Series HD" radio="" tvg-logo="./logos/200.png" audio-track="sp" group-title="CABLE PREMIUN",TNT Series HD
+http://www.iptvmexico.xyz/love/200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-shift="Tooncast" radio="" tvg-logo="./logos/131.png" audio-track="sp" group-title="CABLE PREMIUN",TOONCAST
+http://www.iptvmexico.xyz/love/131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",TRAVELHD
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trendy" tvg-shift="Trendy" radio="" tvg-logo="./logos/2021.png" audio-track="sp" group-title="CABLE PREMIUN",TRENDY
+http://www.iptvmexico.xyz/love/2021.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",TRENDY CHANNEL
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="TruTV HD" tvg-shift="TruTV HD" radio="" tvg-logo="./logos/320.png" audio-track="sp" group-title="CABLE PREMIUN",TRUTV HD
+http://www.iptvmexico.xyz/love/320.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",TV 5 MONDE LATINOAMERICA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",TV CHILE
+http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
+#EXTINF:-1 tvg-id="" tvg-name="TV5Monde" tvg-shift="TV5Monde" radio="" tvg-logo="./logos/1059.png" audio-track="sp" group-title="CABLE PREMIUN",TV5 MONDE HD
+http://www.iptvmexico.xyz/love/1059.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Unicable" tvg-shift="Unicable" radio="" tvg-logo="./logos/212.png" audio-track="sp" group-title="CABLE PREMIUN",UNICABLE
+http://www.iptvmexico.xyz/love/212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel" tvg-shift="Universal Channel" radio="" tvg-logo="./logos/344.png" audio-track="sp" group-title="CABLE PREMIUN",UNIVERSAL CHANNEL
+http://www.iptvmexico.xyz/love/344.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",UNIVISION
+http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_androidtab.m3u8?hdnea=expires=1496782118~access=/nlds/univisionnow/univision_east/as/live/*~md5=a4f512d96d77b9a4f5e4d8f31bbf5361
+#EXTINF:-1 tvg-id="" tvg-name="Univision TDN" tvg-shift="Univision TDN" radio="" tvg-logo="./logos/2019.png" audio-track="sp" group-title="CABLE PREMIUN",Univision TDN
+http://www.iptvmexico.xyz/love/130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",UNIVISION TDN
+http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",VE PLUS TV SD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Classic" tvg-shift="VH1 Classic" radio="" tvg-logo="./logos/396.png" audio-track="sp" group-title="CABLE PREMIUN",VH1 CLASSIC
+http://www.iptvmexico.xyz/love/396.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-shift="VH1 HD" radio="" tvg-logo="./logos/235.png" audio-track="sp" group-title="CABLE PREMIUN",VH1 HD
+http://www.iptvmexico.xyz/love/235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Virgin Music" tvg-shift="Virgin Music" radio="" tvg-logo="./logos/2032.png" audio-track="sp" group-title="CABLE PREMIUN",VIRGIN MUSIC
+http://www.iptvmexico.xyz/love/2032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",WARNER
+http://iptvplayer.xyz:8181/streaming/cv/warner.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-shift="Warner Channel" radio="" tvg-logo="./logos/148.png" audio-track="sp" group-title="CABLE PREMIUN",WARNER CHANNEL
+http://www.iptvmexico.xyz/love/327.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warner HD" tvg-shift="Warner HD" radio="" tvg-logo="./logos/21.png" audio-track="sp" group-title="CABLE PREMIUN",WARNER HD
+http://www.iptvmexico.xyz/love/21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",WINSPORTS
+http://iptvplayer.xyz:8181/streaming/cv/winsports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WOBI" tvg-shift="WOBI" radio="" tvg-logo="./logos/903.png" audio-track="sp" group-title="CABLE PREMIUN",WOBI
+http://www.iptvmexico.xyz/love/903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+e="Virgin Music" tvg-shift="Virgin Music" radio="" tvg-logo="./logos/2032.png" audio-track="sp" group-title="CABLE PREMIUN",VIRGIN MUSIC
+http://www.iptvmexico.xyz/love/2032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",WARNER
+http://iptvplayer.xyz:8181/streaming/cv/warner.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-shift="Warner Channel" radio="" tvg-logo="./logos/148.png" audio-track="sp" group-title="CABLE PREMIUN",WARNER CHANNEL
+http://www.iptvmexico.xyz/love/327.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warner HD" tvg-shift="Warner HD" radio="" tvg-logo="./logos/21.png" audio-track="sp" group-title="CABLE PREMIUN",WARNER HD
+http://www.iptvmexico.xyz/love/21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",WINSPORTS
+http://iptvplayer.xyz:8181/streaming/cv/winsports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WOBI" tvg-shift="WOBI" radio="" tvg-logo="./logos/903.png" audio-track="sp" group-title="CABLE PREMIUN",WOBI
+http://www.iptvmexico.xyz/love/903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" audio-track="sp" group-title="CABLE PREMIUN",WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
